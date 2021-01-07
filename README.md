@@ -13,3 +13,5 @@ npm install
 ```console
 npm start
 ```
+
+Runs on port `3001`.
