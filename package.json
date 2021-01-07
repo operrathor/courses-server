@@ -1,0 +1,20 @@
+{
+  "name": "courses-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Oberroither",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.6.2",
+    "node-fetch": "^2.6.1",
+    "node-ical": "^0.12.1"
+  }
+}
